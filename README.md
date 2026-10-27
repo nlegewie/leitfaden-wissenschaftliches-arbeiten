@@ -1,15 +1,19 @@
 # Leitfaden für Haus- und Abschlussarbeiten
 
-*Lehrstuhl für Soziologie, insb. politische Soziologie*
 
-Dieser Leitfaden sagt dir, worauf ich beim Lesen deiner Arbeit achte und woran du dich beim Schreiben orientieren kannst. Er gilt für schriftliche Ausarbeitungen, Hausarbeiten, BA- und MA-Arbeiten sowie Exposés.
+Prof. Dr. Nicolas Legewie
 
-Ein Hinweis zur Einordnung: Eine Arbeit, die die hier beschriebenen Erwartungen sauber erfüllt, ist bereits eine gute Arbeit. Du musst nicht alles übertreffen, um ein gutes Ergebnis zu erzielen.
+*Lehrstuhl für Methoden der Sozialforschung, Institut für Soziologie, Universität Münster*
+
+Dieser Leitfaden gibt dir einen Überblick über die Aspekte, auf die ich beim Lesen deiner Arbeit achte und an denen du dich beim Schreiben orientieren kannst. Er gilt für schriftliche Ausarbeitungen, Hausarbeiten, BA- und MA-Arbeiten. Der Leitfaden sammelt außerdem nützliche Tips rund ums Verfassen von Hausarbeiten und Abschlussarbeit.
+
+Lektüre rund um Forschungsmethoden und Forschungsdesign findest du im Learnweb-Kurs [HABAMA](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=98447).
+
 
 ## So benutzt du diesen Leitfaden
 
 - **Zum ersten Lesen:** Lies [Das Wichtigste auf einer Seite](#das-wichtigste-auf-einer-seite) unten und dann die Seiten, die zu deiner Arbeit passen.
-- **Während der Arbeit:** Schlag nach, wenn du an einer Stelle hängst — das [Inhaltsverzeichnis](#inhalt) führt dich zu jedem Thema.
+- **Während der Arbeit:** Schlag nach, wenn du an einer Stelle hängst. Das [Inhaltsverzeichnis](#inhalt) führt dich zu jedem Thema.
 - **Vor der Abgabe:** Geh die [Checkliste](04-nachschlagen/02-checkliste.md) durch.
 
 Abschnitte, die mit **Vertiefung** gekennzeichnet und eingeklappt sind, richten sich an fortgeschrittene Studierende. Für eine Hausarbeit im Grundstudium kannst du sie überspringen.
@@ -18,14 +22,14 @@ Abschnitte, die mit **Vertiefung** gekennzeichnet und eingeklappt sind, richten 
 
 1. **Stell eine echte Frage.** Eng gefasst, als Frage mit Fragezeichen, mit einem Ergebnis, das dich überraschen *könnte*. → [Forschungsfrage](01-anforderungen/02-forschungsfrage.md)
 2. **Begründe, warum die Frage lohnt.** „Ich untersuche X, weil ich herausfinden will Y, um zu verstehen Z." Ohne Z keine Relevanz. → [Drei-Schritt-Test](01-anforderungen/02-forschungsfrage.md#relevanz-der-drei-schritt-test)
-3. **Arbeite mit wissenschaftlicher Literatur — und verarbeite sie.** Zeig, wo die Quellen aufhören und deine eigene Position beginnt. → [Literatur](01-anforderungen/03-literatur-und-forschungsluecke.md)
-4. **Definiere deine Begriffe.** Und frag dich, was ein Nicht-Fall wäre. → [Begriffe](01-anforderungen/04-begriffe.md)
-5. **Analysiere, statt zu beschreiben.** Und behaupte nicht mehr, als deine Evidenz trägt. → [Analyse und Evidenz](01-anforderungen/05-analyse-und-evidenz.md)
-6. **Sag, was für eine Arbeit du schreibst.** Theoretisch mit Illustration oder systematisch empirisch — beides ist in Ordnung, aber Anspruch und Vorgehen müssen zusammenpassen. → [Arbeitstypen](03-arbeitstypen/README.md)
+3. **Arbeite mit wissenschaftlicher Literatur.** Zeig, wo die Quellen aufhören und deine eigene Position beginnt. → [Literatur](01-anforderungen/03-literatur-und-forschungsluecke.md)
+4. **Definiere deine Begriffe.** Frag dich, was die zentrale Konzepte ausmacht und wie ein "Nicht-Fall" aussieht. → [Begriffe](01-anforderungen/04-begriffe.md)
+5. **Analysiere, statt zu beschreiben.** Behaupte nicht mehr, als deine Evidenz trägt. → [Analyse und Evidenz](01-anforderungen/05-analyse-und-evidenz.md)
+6. **Sei dir im Klaren, was für eine Arbeit du schreibst.** Theoretisch mit Illustration oder systematisch empirisch; beides ist in Ordnung, aber Anspruch und Vorgehen müssen zusammenpassen. → [Arbeitstypen](03-arbeitstypen/README.md)
 7. **Beantworte deine Frage im Schluss ausdrücklich.** → [Der Schluss](01-anforderungen/06-aufbau-und-argumentation.md#der-schluss)
-8. **Plane vom Abgabetermin rückwärts, mit Puffer — und mit eigener Zeit fürs Überarbeiten.** Der erste Entwurf ist nie die Arbeit, die du abgeben solltest. → [Zeitplanung](02-arbeitsprozess/01-zeitplanung.md)
-9. **Denk erst selbst, dann frag die KI.** Erster Entwurf und Endfassung stammen von dir; jede Nutzung wird offengelegt. → [Integrität und KI](01-anforderungen/10-integritaet-und-ki.md)
-10. **Sichere deine Arbeit** — von Anfang an. → [Datensicherung](02-arbeitsprozess/01-zeitplanung.md#datensicherung)
+8. **Plane vom Abgabetermin rückwärts, mit Puffer und mit eigener Zeit fürs Überarbeiten.** Der erste Entwurf ist nie die Arbeit, die du abgeben solltest. → [Zeitplanung](02-arbeitsprozess/01-zeitplanung.md)
+9. **Denk erst selbst, dann frag die KI.** Erster Entwurf und Endfassung müssen von dir stammen; jede Nutzung wird offengelegt. → [Integrität und KI](01-anforderungen/10-integritaet-und-ki.md)
+10. **Sichere deine Arbeit** von Anfang an. → [Datensicherung](02-arbeitsprozess/01-zeitplanung.md#datensicherung)
 
 ## Inhalt
 

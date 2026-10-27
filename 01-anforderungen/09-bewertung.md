@@ -11,13 +11,13 @@ Deine Arbeit wird entlang von acht Dimensionen beurteilt:
 7. **Sprache / Schreibstil**
 8. **Formales**
 
-Diese Dimensionen sind **unterschiedlich gewichtet**: Forschungsfrage und Analyse zählen am stärksten, Formales am wenigsten.
+Diese Dimensionen sind **unterschiedlich gewichtet**: Forschungsfrage und Analyse zählen am stärksten, Formales am wenigsten (außer es wird nicht sauber zitiert).
 
-Der Maßstab ist so gedacht, dass eine **kompetente, die Erwartungen erfüllende Arbeit der Note 2,0 entspricht**. Von dort aus geht es nach oben, wenn du die Erwartungen übertriffst, und nach unten, wenn du hinter ihnen zurückbleibst. Eine Arbeit, die die Erwartungen in diesem Leitfaden sauber erfüllt, ist also bereits eine gute Arbeit — du musst nicht alles übertreffen.
+Der Maßstab ist so gedacht, dass eine **kompetente, die Erwartungen erfüllende Arbeit der Note 2,0 entspricht**. Von dort aus geht es nach oben, wenn du die Erwartungen übertriffst, und nach unten, wenn du hinter ihnen zurückbleibst. Eine Arbeit, die die Erwartungen in diesem Leitfaden sauber erfüllt, ist also bereits eine gute Arbeit.
 
-Empirische Arbeiten verstehe ich als anspruchsvoll und bewerte sie unter sonst gleichen Bedingungen wohlwollend.
+Empirische Arbeiten verstehe ich als anspruchsvoll und sehe oft einen großen Mehrwert für den Lernprozess. Ich bewerte sie daher unter sonst gleichen Bedingungen wohlwollend.
 
-## Was die Note begrenzt — und was zum Nichtbestehen führt
+## Was die Note begrenzt und was zum Nichtbestehen führt
 
 > [!CAUTION]
 > Drei Schwächen wiegen besonders schwer und **begrenzen die erreichbare Note** unabhängig von den Stärken der Arbeit:

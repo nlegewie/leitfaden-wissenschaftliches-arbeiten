@@ -1,11 +1,11 @@
 # 1 Anforderungen
 
-Dieses Kapitel beschreibt, **was** ich von einer Arbeit erwarte. Es ist kein Rezept: Es gibt nicht *die eine* richtige Arbeit. Es beschreibt die Qualitäten, die eine wissenschaftliche Arbeit gut machen — und wie sie bewertet werden.
+Dieses Kapitel beschreibt, **was** ich von einer Arbeit erwarte. Es ist kein Rezept: Es gibt nicht *die eine* richtige Arbeit. Hier findest du eine Orientierung, was eine wissenschaftliche Arbeit gut macht und wie ich sie bewerte.
 
 | | Seite | Worum es geht |
 |---|---|---|
-| 1.1 | [Formate](01-formate.md) | Ausarbeitung, Hausarbeit, BA, MA, Exposé — was sich unterscheidet |
-| 1.2 | [Forschungsfrage](02-forschungsfrage.md) | Eine klare, ergebnisoffene Frage; Relevanz begründen |
+| 1.1 | [Formate](01-formate.md) | Ausarbeitung, Hausarbeit, BA, MA |
+| 1.2 | [Forschungsfrage](02-forschungsfrage.md) | Eine klare Frage mit begründeter Relevanz |
 | 1.3 | [Literatur und Forschungslücke](03-literatur-und-forschungsluecke.md) | Literatur verarbeiten; was als Lücke zählt |
 | 1.4 | [Begriffe](04-begriffe.md) | Definieren, Dimensionen, Indikatoren; der Gegenpol-Test |
 | 1.5 | [Analyse und Evidenz](05-analyse-und-evidenz.md) | Anspruch und Vorgehen; Aussagen im Rahmen der Evidenz |
