@@ -15,7 +15,7 @@ Diese Dimensionen sind **unterschiedlich gewichtet**: Forschungsfrage und Analys
 
 Der Maßstab ist so gedacht, dass eine **kompetente, die Erwartungen erfüllende Arbeit der Note 2,0 entspricht**. Von dort aus geht es nach oben, wenn du die Erwartungen übertriffst, und nach unten, wenn du hinter ihnen zurückbleibst. Eine Arbeit, die die Erwartungen in diesem Leitfaden sauber erfüllt, ist also bereits eine gute Arbeit.
 
-Empirische Arbeiten verstehe ich als anspruchsvoll und sehe oft einen großen Mehrwert für den Lernprozess. Ich bewerte sie daher unter sonst gleichen Bedingungen wohlwollend.
+Ich sehe bei empirischen Arbeiten einen großen Mehrwert für den Lernprozess. Ich bewerte sie daher unter sonst gleichen Bedingungen wohlwollend.
 
 ## Was die Note begrenzt und was zum Nichtbestehen führt
 
@@ -34,12 +34,12 @@ Plagiat, erfundene Daten und unzulässiger KI-Einsatz sind keine Frage der Note,
 
 ## Die Bewertungsstufen im Einzelnen
 
-Die folgenden Tabellen zeigen, was ich in jeder Dimension auf den einzelnen Notenstufen erwarte. Du kannst sie zur **Selbsteinschätzung** deines Entwurfs nutzen: Wo stehst du in jeder Dimension — und was fehlt zur nächsten Stufe?
+Die folgenden Tabellen zeigen, was ich in jeder Dimension auf den einzelnen Notenstufen erwarte. Du kannst sie zur **Selbsteinschätzung** deines Entwurfs nutzen: Wo stehst du in jeder Dimension, und was fehlt zur nächsten Stufe?
 
 So sind die Tabellen zu lesen:
 
 - Die Stufen sind **kumulativ**: „Wie 1,7, zusätzlich …" heißt, dass eine höhere Stufe alles voraussetzt, was die darunterliegende verlangt.
-- Ausformuliert sind die Stufen **1,0 · 1,3 · 1,7 · 2,0 · 2,3 · 3,0 · 4,0 · 5,0**. Am feinsten ist die Auflösung dort, wo die meisten Noten liegen (1,3–2,3).
+- Ausformuliert sind die Stufen **1,0 · 1,3 · 1,7 · 2,0 · 2,3 · 3,0 · 4,0 · 5,0**.
 - Die Zwischenstufen **2,7 · 3,3 · 3,7** sind nicht eigens beschrieben; sie bedeuten „klar in Richtung der besseren bzw. schlechteren Nachbarstufe".
 - Jede Dimension wird zunächst **für sich** eingestuft; die Gesamtnote ergibt sich erst daraus.
 
@@ -50,7 +50,7 @@ So sind die Tabellen zu lesen:
 
 | Note | Erwartung |
 |---|---|
-| 1,0 | Wie 1,3, zusätzlich: originell und nicht-trivial; eröffnet einen Erkenntnisgewinn über das Naheliegende hinaus. |
+| 1,0 | Wie 1,3, zusätzlich: originell und nicht-trivial; addressiert eine Forschungslücke und eröffnet einen Erkenntnisgewinn über das Naheliegende hinaus. |
 | 1,3 | Wie 1,7, zusätzlich: präzise zugeschnitten und erkennbar ergebnisoffen (ein unerwartetes Ergebnis ist möglich); trägt die gesamte Arbeit. |
 | 1,7 | Wie 2,0, zusätzlich: klar als Frage formuliert, eng gefasst, durchgängig leitend; der Zuschnitt ist überzeugend begründet. |
 | 2,0 | Erkennbare, beantwortbare Frage, die zum Umfang passt und die Arbeit grundsätzlich strukturiert. |
@@ -88,7 +88,7 @@ So sind die Tabellen zu lesen:
 |---|---|
 | 1,0 | Wie 1,3, zusätzlich: souveräner, treffsicherer und aktueller Überblick über den einschlägigen Forschungsstand (umfangsangemessen); die eigene Arbeit wird präzise verortet. |
 | 1,3 | Wie 1,7, zusätzlich: substanzielle Einbindung einschlägiger wissenschaftlicher Artikel und Bücher; Quellen werden verarbeitet, nicht aneinandergereiht. |
-| 1,7 | Wie 2,0, zusätzlich: die Literatur ist erkennbar ausgewählt und auf die Frage bezogen; Zitation durchgängig korrekt, mit Seitenzahlen (außer bei Verweis auf die Gesamtidee). |
+| 1,7 | Wie 2,0, zusätzlich: die Literatur ist erkennbar ausgewählt und auf die Frage bezogen mit Seitenzahlen (außer bei Verweis auf die Gesamtidee). |
 | 2,0 | Angemessene Menge einschlägiger wissenschaftlicher Literatur; korrektes, einheitliches Zitieren in Text und Verzeichnis; eigene Stimme von den Quellen unterscheidbar. |
 | 2,3 | Literaturbasis etwas knapp oder teils nicht einschlägig; Zitierweise überwiegend korrekt, mit Lücken (z. B. fehlende Seitenzahlen). |
 | 3,0 | Dünne oder unsystematische Literaturbasis; überwiegend nicht-wissenschaftliche Quellen; Zitierweise uneinheitlich oder lückenhaft. |

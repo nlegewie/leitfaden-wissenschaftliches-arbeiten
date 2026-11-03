@@ -15,4 +15,4 @@ Dieses Kapitel beschreibt, **was** ich von einer Arbeit erwarte. Es ist kein Rez
 | 1.9 | [Wie bewertet wird](09-bewertung.md) | Dimensionen, Notenstufen, was die Note begrenzt |
 | 1.10 | [Integrität und KI](10-integritaet-und-ki.md) | Verbindliche Regeln zum KI-Einsatz |
 
-Wie du praktisch vorgehst, steht in [2 Arbeitsprozess](../02-arbeitsprozess/README.md); was für theoretische und empirische Arbeiten speziell gilt, in [3 Arbeitstypen](../03-arbeitstypen/README.md).
+Tips zum praktischen Vorgehen findest du in [2 Arbeitsprozess](../02-arbeitsprozess/README.md); was für theoretische und empirische Arbeiten speziell gilt, in [3 Arbeitstypen](../03-arbeitstypen/README.md).

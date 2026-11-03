@@ -9,7 +9,7 @@ Schreibe **klar und zugänglich**. Vermeide verschachtelte Satzkonstruktionen, u
 - Verwende **geschlechtsneutrale Sprache** (z. B. „Studierende" oder „Student:innen" statt nur „Studenten").
 
 > [!TIP]
-> **Lies deinen Text laut.** Was sich beim Vorlesen holprig anfühlt, liest sich auch holprig.
+> **Lies dir deinen selbst Text laut vor.** Was sich beim Vorlesen holprig anfühlt, liest sich auch holprig.
 
 Welche Verben zur Stärke deiner Evidenz passen („legt nahe" statt „beweist"), steht unter [Analyse und Evidenz](05-analyse-und-evidenz.md#aussagen-im-rahmen-der-evidenz). Das ist eine inhaltliche Frage, keine stilistische.
 

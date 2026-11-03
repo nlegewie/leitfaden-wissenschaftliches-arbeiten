@@ -56,7 +56,7 @@ Der Schluss ist der Teil, den viele Leser:innen nach der Einleitung als Nächste
 3. **Ordne das Ergebnis ein.** Was verstehen wir jetzt anders als vorher? Hier schließt sich der Kreis zur Lücke aus der Einleitung und zum *Z* aus dem [Drei-Schritt-Test](02-forschungsfrage.md#relevanz-der-drei-schritt-test).
 4. **Benenne Grenzen, Implikationen und offene Fragen** (siehe [Kritische Reflexion](#kritische-reflexion)).
 
-> [!WICHTIG]
+> [!TIP]
 > Deine Schlussfolgerung muss **keine endgültige Antwort** geben. Sie darf auch zeigen, dass die bisherigen Antworten unzureichend sind, und auf offene Fragen verweisen.
 
 Was nicht in den Schluss gehört:

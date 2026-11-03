@@ -7,7 +7,7 @@ Prof. Dr. Nicolas Legewie
 
 Dieser Leitfaden gibt dir einen Überblick über die Aspekte, auf die ich beim Lesen deiner Arbeit achte und an denen du dich beim Schreiben orientieren kannst. Er gilt für schriftliche Ausarbeitungen, Hausarbeiten, BA- und MA-Arbeiten. Der Leitfaden sammelt außerdem nützliche Tips rund ums Verfassen von Hausarbeiten und Abschlussarbeit.
 
-Lektüre rund um Forschungsmethoden und Forschungsdesign findest du im Learnweb-Kurs [HABAMA](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=98447).
+Lektüre rund um Forschungsmethoden und Forschungsdesign findest du im Learnweb-Kurs "Hausarbeiten, BA, und MA" [HABAMA](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=98447).
 
 
 ## So benutzt du diesen Leitfaden

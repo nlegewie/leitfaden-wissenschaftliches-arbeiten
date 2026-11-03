@@ -43,7 +43,7 @@ Wer *Z* nicht formulieren kann, sollte nicht weiterschreiben, sondern die Frage 
 
 In der Einleitung arbeitest du diese Relevanz aus: warum die Frage lohnt, gesellschaftlich wie wissenschaftlich. Wie das gelingt, steht unter [Die Einleitung in drei Zügen](06-aufbau-und-argumentation.md#die-einleitung-in-drei-zügen).
 
-Einen hilfreichen Artikel zum Thema Forschungsfragen findest du auch im Learnweb.
+Einen hilfreichen Artikel zum Thema Forschungsfragen findest du auch im [Learnweb](https://www.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=98447).
 
 ---
 <!-- nav -->
