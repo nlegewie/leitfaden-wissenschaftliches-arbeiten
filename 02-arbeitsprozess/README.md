@@ -1,6 +1,6 @@
 # 2 Arbeitsprozess
 
-Dieses Kapitel beschreibt, **wie** du vom ersten Gedanken zur fertigen Arbeit kommst. Viele Schwächen in fertigen Arbeiten sind keine Frage des Könnens, sondern der Arbeitsweise — vor allem der Zeit, die fürs Überarbeiten bleibt.
+Dieses Kapitel beschreibt, **wie** du vom ersten Gedanken zur fertigen Arbeit kommst. Viele Schwächen in fertigen Arbeiten sind keine Frage des Könnens, sondern der Arbeitsweise und vor allem der Zeit, die Studierende fürs Überarbeiten einplanen und aufwenden.
 
 | | Seite | Worum es geht |
 |---|---|---|

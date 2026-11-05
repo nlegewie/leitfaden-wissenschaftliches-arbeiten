@@ -109,9 +109,9 @@ So sind die Tabellen zu lesen:
 | 1,7 | Wie 2,0, zusätzlich: zentrale Begriffe transparent definiert und durchgängig konsistent verwendet. |
 | 2,0 | Die tragenden Begriffe sind definiert und werden im Wesentlichen konsistent gebraucht. |
 | 2,3 | Begriffe überwiegend geklärt, aber stellenweise unscharf oder schwankend. |
-| 3,0 | Zentrale Begriffe bleiben undefiniert oder werden uneinheitlich verwendet; das belastet die Argumentation. |
-| 4,0 | Schlüsselbegriffe unklar und in der Bedeutung wechselnd; es entstehen Verständnisprobleme. |
-| 5,0 | Begrifflich diffus; über weite Strecken nicht nachvollziehbar. |
+| 3,0 | Zentrale Begriffe sind unzureichend definiert oder werden uneinheitlich verwendet; das belastet die Argumentation. |
+| 4,0 | Schlüsselbegriffe nicht defininiert und in der Bedeutung wechselnd; es entstehen grundlegende Verständnisprobleme. |
+| 5,0 | Begrifflich diffus und über weite Strecken nicht nachvollziehbar. |
 
 </details>
 
@@ -140,14 +140,14 @@ So sind die Tabellen zu lesen:
 
 | Note | Erwartung |
 |---|---|
-| 1,0 | Wie 1,3, zusätzlich: substanziell und ehrlich; Grenzen werden produktiv gewendet (welche konkreten Folgefragen ergeben sich?). |
+| 1,0 | Wie 1,3, zusätzlich: Grenzen werden produktiv gewendet (welche konkreten Folgefragen ergeben sich?); Alternative Erklärungen werden voll entwickelt und entkräftet oder in Grenzen als konkurrierende Erklärung diskutiert. |
 | 1,3 | Wie 1,7, zusätzlich: Gegenargumente werden ernsthaft erwogen; praktische wie forschungsbezogene Implikationen differenziert ausgeführt. |
 | 1,7 | Wie 2,0, zusätzlich: Grenzen, Implikationen und offene Fragen werden konkret und arbeitsbezogen benannt. |
 | 2,0 | Die Arbeit benennt Grenzen, mögliche Einwände, Implikationen sowie Ansätze für weitere Forschung. |
 | 2,3 | Reflexion vorhanden, aber knapp oder formelhaft; nah an Allgemeinplätzen. |
 | 3,0 | Nur pauschale Reflexion ohne Bezug zur eigenen Arbeit. |
 | 4,0 | Kaum Reflexion; Grenzen und Implikationen fehlen weitgehend. |
-| 5,0 | Keine Reflexion; eine Überreichweite der Aussagen wird nicht erkannt. |
+| 5,0 | Keine Reflexion; Grenzen oder Mängel der Arbeit werden nicht erkannt. |
 
 </details>
 
@@ -159,7 +159,7 @@ So sind die Tabellen zu lesen:
 | Note | Erwartung |
 |---|---|
 | 1,0 | Wie 1,3, zusätzlich: präzise und klar; Komplexität wird verständlich gemacht, nicht versteckt. |
-| 1,3 | Wie 1,7, zusätzlich: durchgängig klar, ökonomisch, ohne Redundanz; Fachsprache sparsam und treffend. |
+| 1,3 | Wie 1,7, zusätzlich: durchgängig klar und auf den Punkt; Fachsprache sparsam und treffend. |
 | 1,7 | Wie 2,0, zusätzlich: gut lesbar; einfache Satzstrukturen; kein unnötiger Jargon. |
 | 2,0 | Klar und verständlich; Argumente sind ohne Mühe nachvollziehbar. |
 | 2,3 | Überwiegend verständlich, aber stellenweise umständlich, redundant oder verschachtelt. |
