@@ -7,7 +7,7 @@ Dieses Kapitel beschreibt, **was** ich von einer Arbeit erwarte. Es ist kein Rez
 | 1.1 | [Formate](01-formate.md) | Ausarbeitung, Hausarbeit, BA, MA |
 | 1.2 | [Forschungsfrage](02-forschungsfrage.md) | Eine klare Frage mit begründeter Relevanz |
 | 1.3 | [Literatur und Forschungslücke](03-literatur-und-forschungsluecke.md) | Literatur verarbeiten; was als Lücke zählt |
-| 1.4 | [Begriffe](04-begriffe.md) | Definieren, Dimensionen, Indikatoren; der Gegenpol-Test |
+| 1.4 | [Theoretischer Rahmen und Begriffe](04-begriffe.md) | Theorie wählen und Erwartungen ableiten; Definieren, Dimensionen, Indikatoren; der Gegenpol-Test |
 | 1.5 | [Analyse und Evidenz](05-analyse-und-evidenz.md) | Anspruch und Vorgehen; Aussagen im Rahmen der Evidenz |
 | 1.6 | [Aufbau und Argumentation](06-aufbau-und-argumentation.md) | Einleitung, Argumentationsmuster, roter Faden, Schluss, Reflexion |
 | 1.7 | [Sprache und Stil](07-sprache-und-stil.md) | Klar und zugänglich schreiben |

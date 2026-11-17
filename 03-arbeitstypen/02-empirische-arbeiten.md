@@ -9,10 +9,10 @@ Verwende **Daten, die deine Frage tatsächlich beantworten können**, lege deine
 Viele Forschungsartikel, die du ohnehin liest, sind empirisch aufgebaut. Du kannst dich an dieser bewährten Gliederung orientieren:
 
 1. **Einleitung**
-2. **Literaturüberblick** — welche Forschung gibt es, und wo liegen Lücken?
+2. **Literaturüberblick und theoretischer Rahmen** — welche Forschung gibt es, wo liegen Lücken, mit welcher Theorie schaust du auf deinen Gegenstand, und was lässt sie für deine Frage erwarten (Hypothesen bzw. Vorerwartungen)? Siehe [Theoretischer Rahmen](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen).
 3. **Methoden** — welche Frage ergibt sich aus der Lücke, wie werden Begriffe definiert, welche Daten wurden analysiert und wie? Der Methodenteil sollte als eigener Abschnitt erkennbar sein.
 4. **Ergebnisse** — was hat die Analyse ergeben?
-5. **Diskussion und Schluss** — was zeigt die Studie, wo liegen Mängel und offene Fragen?
+5. **Diskussion und Schluss** — was zeigt die Studie, wie verhalten sich die Befunde zu den theoretischen Erwartungen, wo liegen Mängel und offene Fragen?
 
 ## Fallauswahl
 

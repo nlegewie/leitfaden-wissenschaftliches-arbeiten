@@ -23,7 +23,7 @@ Abschnitte, die mit **Vertiefung** gekennzeichnet und eingeklappt sind, richten 
 1. **Stell eine echte Frage.** Eng gefasst, als Frage mit Fragezeichen, mit einem Ergebnis, das dich überraschen *könnte*. → [Forschungsfrage](01-anforderungen/02-forschungsfrage.md)
 2. **Begründe, warum die Frage lohnt.** „Ich untersuche X, weil ich herausfinden will Y, um zu verstehen Z." Ohne Z keine Relevanz. → [Drei-Schritt-Test](01-anforderungen/02-forschungsfrage.md#relevanz-der-drei-schritt-test)
 3. **Arbeite mit wissenschaftlicher Literatur.** Zeig, wo die Quellen aufhören und deine eigene Position beginnt. → [Literatur](01-anforderungen/03-literatur-und-forschungsluecke.md)
-4. **Definiere deine Begriffe.** Frag dich, was die zentrale Konzepte ausmacht und wie ein "Nicht-Fall" aussieht. → [Begriffe](01-anforderungen/04-begriffe.md)
+4. **Mach deine Theorie fruchtbar und definiere deine Begriffe.** Was lässt die Theorie für deine Frage erwarten? Was macht die zentralen Konzepte aus, und wie sieht ein „Nicht-Fall" aus? → [Theoretischer Rahmen und Begriffe](01-anforderungen/04-begriffe.md)
 5. **Analysiere, statt zu beschreiben.** Behaupte nicht mehr, als deine Evidenz trägt. → [Analyse und Evidenz](01-anforderungen/05-analyse-und-evidenz.md)
 6. **Sei dir im Klaren, was für eine Arbeit du schreibst.** Theoretisch mit Illustration oder systematisch empirisch; beides ist in Ordnung, aber Anspruch und Vorgehen müssen zusammenpassen. → [Arbeitstypen](03-arbeitstypen/README.md)
 7. **Beantworte deine Frage im Schluss ausdrücklich.** → [Der Schluss](01-anforderungen/06-aufbau-und-argumentation.md#der-schluss)
@@ -38,7 +38,7 @@ Abschnitte, die mit **Vertiefung** gekennzeichnet und eingeklappt sind, richten 
 1. [Formate](01-anforderungen/01-formate.md) — Ausarbeitung, Hausarbeit, BA, MA, Exposé
 2. [Forschungsfrage](01-anforderungen/02-forschungsfrage.md) — Frage, Ergebnisoffenheit, Relevanz
 3. [Literatur und Forschungslücke](01-anforderungen/03-literatur-und-forschungsluecke.md)
-4. [Begriffe](01-anforderungen/04-begriffe.md)
+4. [Theoretischer Rahmen und Begriffe](01-anforderungen/04-begriffe.md) — Theorie wählen, Erwartungen ableiten, Begriffe definieren
 5. [Analyse und Evidenz](01-anforderungen/05-analyse-und-evidenz.md)
 6. [Aufbau und Argumentation](01-anforderungen/06-aufbau-und-argumentation.md) — Einleitung, roter Faden, Schluss, Reflexion
 7. [Sprache und Stil](01-anforderungen/07-sprache-und-stil.md)

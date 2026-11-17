@@ -21,10 +21,14 @@ Ein Register der häufigsten Schwächen. Jeder Eintrag nennt in einer Zeile, was
 | Fremde Befunde ungenau wiedergegeben; Quelle und eigene Gedanken vermischt | Beim Exzerpieren strikt trennen | [2.3](../02-arbeitsprozess/03-lesen-und-exzerpieren.md#exzerpieren) |
 | Quellen aus KI-Werkzeugen ungeprüft übernommen | Jeden Text selbst lesen | [1.10](../01-anforderungen/10-integritaet-und-ki.md) |
 
-## Begriffe
+## Theorie und Begriffe
 
 | Fehler | Was hilft | Mehr |
 |---|---|---|
+| Theorieteil als Referat, der für die Frage nichts erwarten lässt | Erwartungstest: „Nach dieser Theorie wäre zu erwarten, dass …" | [1.4](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen) |
+| Wahl der Theorie nicht begründet | Sagen, warum dieser Ansatz und nicht ein naheliegender anderer | [1.4](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen) |
+| Theorie, die später kritisiert wird, verkürzt dargestellt (Strohmann) | Jede Theorie in ihrer stärksten Fassung darstellen | [3.1](../03-arbeitstypen/01-theoretische-arbeiten.md) |
+| Abgeleitete Erwartungen tauchen in Analyse und Schluss nicht wieder auf | Befunde ausdrücklich an die Erwartungen zurückbinden | [1.4](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen) |
 | Begriffe unscharf oder vorschnell gleichgesetzt | Definieren, Zuschnitt begründen, reflektieren, was die Definition ausschließt | [1.4](../01-anforderungen/04-begriffe.md) |
 | Begriff ohne Gegenpol | Nicht-Fall suchen; Definition → Dimensionen → Indikatoren | [1.4](../01-anforderungen/04-begriffe.md#der-gegenpol-test) |
 

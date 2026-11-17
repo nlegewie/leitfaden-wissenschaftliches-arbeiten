@@ -10,7 +10,7 @@ Die Checkliste fasst die wichtigsten Anforderungen als Fragen zusammen. Jeder Pu
 - [ ] Trägt die Frage die gesamte Arbeit (roter Faden)? → [1.6](../01-anforderungen/06-aufbau-und-argumentation.md#der-rote-faden)
 - [ ] Bin ich klar darüber, ob meine Arbeit theoretisch (mit Fällen als Illustration) oder systematisch empirisch ist — und weise ich das so aus? → [1.5](../01-anforderungen/05-analyse-und-evidenz.md#anspruch-und-vorgehen-müssen-zusammenpassen)
 
-## Literatur und Begriffe
+## Literatur, Theorie und Begriffe
 
 - [ ] Beziehe ich mich auf ausreichend einschlägige **wissenschaftliche** Literatur und benenne ich die Forschungslücke? → [1.3](../01-anforderungen/03-literatur-und-forschungsluecke.md)
 - [ ] Kann ich sagen, was wir anders verstehen würden, wenn diese Lücke geschlossen wäre? → [1.3](../01-anforderungen/03-literatur-und-forschungsluecke.md#was-als-forschungslücke-zählt)
@@ -18,6 +18,8 @@ Die Checkliste fasst die wichtigsten Anforderungen als Fragen zusammen. Jeder Pu
 - [ ] Zitiere ich einheitlich und mit Seitenzahlen? → [4.1](01-zitieren.md)
 - [ ] Paraphrasiere ich im Literatur-/Theorieteil überwiegend und zitiere wörtlich nur, wo der Wortlaut zählt? → [4.1](01-zitieren.md#wörtliche-zitate)
 - [ ] Habe ich jede Literaturangabe im Original gesehen? → [1.10](../01-anforderungen/10-integritaet-und-ki.md)
+- [ ] Habe ich begründet, warum ich diesen theoretischen Ansatz gewählt habe, und ihn fair dargestellt? → [1.4](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen)
+- [ ] Kann ich den Satz „Nach dieser Theorie wäre für meine Frage zu erwarten, dass …" vervollständigen — und komme ich in Analyse und Schluss darauf zurück? → [1.4](../01-anforderungen/04-begriffe.md#der-theoretische-rahmen)
 - [ ] Sind meine zentralen Begriffe definiert, im Zuschnitt begründet und konsistent verwendet? Fällt mir zu jedem ein **Nicht-Fall** ein? → [1.4](../01-anforderungen/04-begriffe.md)
 
 ## Analyse

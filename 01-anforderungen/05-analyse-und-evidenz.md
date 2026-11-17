@@ -3,7 +3,7 @@
 Was eine gute Analyse ausmacht, hängt vom Typ deiner Arbeit ab:
 
 - **Theoretische bzw. literaturbasierte Arbeit.** Gib die Forschung anderer nicht nur korrekt wieder, sondern setze dich **kritisch** mit ihr auseinander. Eine sehr gute Arbeit lässt verschiedene Theorien miteinander sprechen oder nutzt eine Theorie, um einen konkreten Fall zu beleuchten. Die Arbeit soll über eine bloße Zusammenfassung hinausgehen (z. B. indem sie eine Leerstelle aufzeigt oder eine neue Konzeptualisierung vorschlägt). → [Theoretische Arbeiten](../03-arbeitstypen/01-theoretische-arbeiten.md)
-- **Empirische Arbeit.** Verwende **Daten, die deine Frage tatsächlich beantworten können**, lege deine Methoden transparent offen und dokumentiere sie, und analysiere präzise. → [Empirische Arbeiten](../03-arbeitstypen/02-empirische-arbeiten.md), [quantitativ](../03-arbeitstypen/04-quantitative-arbeiten.md), [qualitativ](../03-arbeitstypen/05-qualitative-arbeiten.md)
+- **Empirische Arbeit.** Verwende **Daten, die deine Frage tatsächlich beantworten können**, lege deine Methoden transparent offen und dokumentiere sie, und analysiere präzise. Binde deine Befunde an die Erwartungen aus deinem [theoretischen Rahmen](04-begriffe.md#der-theoretische-rahmen) zurück: Wo bestätigen sie sie, wo verkomplizieren oder widerlegen sie sie, und was folgt daraus für die Theorie? → [Empirische Arbeiten](../03-arbeitstypen/02-empirische-arbeiten.md), [quantitativ](../03-arbeitstypen/04-quantitative-arbeiten.md), [qualitativ](../03-arbeitstypen/05-qualitative-arbeiten.md)
 
 ## Anspruch und Vorgehen müssen zusammenpassen
 
@@ -24,4 +24,4 @@ Weitere Punkte:
 ---
 <!-- nav -->
 
-← [Begriffe](04-begriffe.md) · [Kapitelübersicht](README.md) · [Startseite](../README.md) · [Aufbau und Argumentation](06-aufbau-und-argumentation.md) →
+← [Theoretischer Rahmen und Begriffe](04-begriffe.md) · [Kapitelübersicht](README.md) · [Startseite](../README.md) · [Aufbau und Argumentation](06-aufbau-und-argumentation.md) →

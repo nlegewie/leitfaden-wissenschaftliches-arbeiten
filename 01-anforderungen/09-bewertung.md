@@ -2,16 +2,16 @@
 
 Deine Arbeit wird entlang von acht Dimensionen beurteilt:
 
-1. **Forschungsfrage**
+1. **Forschungsfrage und Relevanz**
 2. **Analyse / Argumentation**
-3. **Literatur und Forschungsstand**
-4. **Begriffliche Klarheit und Konsistenz**
+3. **Theoretischer Rahmen und Begriffe**
+4. **Literatur und Forschungsstand**
 5. **Struktur**
 6. **Kritische Reflexion** (Grenzen, Implikationen)
 7. **Sprache / Schreibstil**
 8. **Formales**
 
-Diese Dimensionen sind **unterschiedlich gewichtet**: Die Analyse zählt am stärksten, danach Forschungsfrage und Literatur; Formales zählt am wenigsten (außer es wird nicht sauber zitiert).
+Diese Dimensionen sind **unterschiedlich gewichtet**: Die Analyse zählt am stärksten, danach Forschungsfrage, theoretischer Rahmen und Literatur; Formales zählt am wenigsten (außer es wird nicht sauber zitiert).
 
 Der Maßstab ist so gedacht, dass eine **kompetente, die Erwartungen erfüllende Arbeit der Note 2,0 entspricht**. Von dort aus geht es nach oben, wenn du die Erwartungen übertriffst, und nach unten, wenn du hinter ihnen zurückbleibst. Eine Arbeit, die die Erwartungen in diesem Leitfaden sauber erfüllt, ist also bereits eine gute Arbeit.
 
@@ -44,19 +44,19 @@ So sind die Tabellen zu lesen:
 - Jede Dimension wird zunächst **für sich** eingestuft; die Gesamtnote ergibt sich erst daraus.
 
 <details>
-<summary><b>Forschungsfrage</b></summary>
+<summary><b>Forschungsfrage und Relevanz</b></summary>
 
 <br>
 
-Bewertet wird vor allem die Frage, die deine Arbeit **tatsächlich bearbeitet und beantwortet** — nicht nur ihr Wortlaut in der Einleitung. Eine unglücklich formulierte Frage, oder eine, die von dem abweicht, was du am Ende wirklich untersuchst, kostet in dieser Dimension höchstens eine Stufe. Eine sorgfältige Formulierung lohnt sich trotzdem: Sie zwingt dich früh zur Präzision und hält die Arbeit auf Kurs.
+Bewertet wird vor allem die Frage, die deine Arbeit **tatsächlich bearbeitet und beantwortet** — nicht nur ihr Wortlaut in der Einleitung. Eine unglücklich formulierte Frage, oder eine, die von dem abweicht, was du am Ende wirklich untersuchst, kostet in dieser Dimension höchstens eine Stufe. Eine sorgfältige Formulierung lohnt sich trotzdem: Sie zwingt dich früh zur Präzision und hält die Arbeit auf Kurs. Zur Frage gehört auch ihre **Relevanz**: Es muss erkennbar sein, wozu die Antwort beiträgt (siehe [Drei-Schritt-Test](02-forschungsfrage.md#relevanz-der-drei-schritt-test)).
 
 | Note | Erwartung |
 |---|---|
-| 1,0 | Wie 1,3, zusätzlich: originell und nicht-trivial; addressiert eine Forschungslücke und eröffnet einen Erkenntnisgewinn über das Naheliegende hinaus. |
+| 1,0 | Wie 1,3, zusätzlich: originell und nicht-trivial; adressiert eine Forschungslücke und eröffnet einen Erkenntnisgewinn über das Naheliegende hinaus. |
 | 1,3 | Wie 1,7, zusätzlich: präzise zugeschnitten und in der Sache ergebnisoffen (die Arbeit hätte zu einem anderen Ergebnis kommen können); trägt die gesamte Arbeit. |
-| 1,7 | Wie 2,0, zusätzlich: eng gefasst und durchgängig leitend; der Zuschnitt ist überzeugend begründet. |
-| 2,0 | Erkennbare, beantwortbare Frage, die zum Umfang passt und die Arbeit grundsätzlich strukturiert. |
-| 2,3 | Etwas zu breit oder unscharf; einzelne Teile der Arbeit hängen nur lose an der Frage. |
+| 1,7 | Wie 2,0, zusätzlich: eng gefasst und durchgängig leitend; der Zuschnitt ist überzeugend begründet; die Relevanz ist aus Forschungsstand oder Theorie hergeleitet, nicht nur behauptet. |
+| 2,0 | Erkennbare, beantwortbare Frage, die zum Umfang passt und die Arbeit grundsätzlich strukturiert; es ist erkennbar, wozu die Antwort beiträgt. |
+| 2,3 | Etwas zu breit oder unscharf; einzelne Teile der Arbeit hängen nur lose an der Frage; oder: es bleibt offen, wozu die Antwort beiträgt (Relevanz nur behauptet). |
 | 3,0 | Frage nur mit Mühe erkennbar, sehr breit oder in der Sache ergebnisvorwegnehmend (die Arbeit sammelt nur Belege für eine feststehende These); leitet die Arbeit kaum. |
 | 4,0 | Eine Fragestellung ist allenfalls zu erahnen; die Arbeit beschreibt ein Thema, ohne eine Frage zu verfolgen. |
 | 5,0 | Keine erkennbare oder keine beantwortbare Fragestellung *(begrenzt die Gesamtnote, siehe oben)*. |
@@ -82,6 +82,26 @@ Bewertet wird vor allem die Frage, die deine Arbeit **tatsächlich bearbeitet un
 </details>
 
 <details>
+<summary><b>Theoretischer Rahmen und Begriffe</b></summary>
+
+<br>
+
+Hier geht es um den Rahmen, wie er **vor** deiner Analyse steht: welche Theorie du wählst und wie du sie darstellst, wie du deine Begriffe bestimmst und was der Rahmen für deine Frage erwarten lässt. Was du in der Analyse damit machst, zählt unter *Analyse*. Mehr dazu unter [Theoretischer Rahmen und Begriffe](04-begriffe.md).
+
+| Note | Erwartung |
+|---|---|
+| 1,0 | Wie 1,3, zusätzlich: Der Rahmen ist selbst eine Leistung, etwa die begründete Verbindung zweier Theoriestränge, die Präzisierung eines Konzepts oder konkurrierende Erwartungen aus rivalisierenden Ansätzen, zwischen denen die Analyse entscheiden kann. Die Begriffswahl wird gegen konkurrierende Definitionen begründet. |
+| 1,3 | Wie 1,7, zusätzlich: Aus dem Rahmen werden vor der Analyse konkrete, prüfbare Erwartungen abgeleitet (empirisch: Hypothesen bzw. Vorerwartungen; theoretisch: Vergleichs- oder Prüfkriterien). Theorien sind in ihrer stärksten Fassung dargestellt. Definitionen sind theoretisch verortet und reichen bis zu Dimensionen und Indikatoren bzw. bis zur Stelle, an der sie angewandt werden. |
+| 1,7 | Wie 2,0, zusätzlich: Die Wahl des Ansatzes ist mit Blick auf die Frage begründet (warum diese Theorie und nicht eine naheliegende andere). Die zentralen Begriffe sind transparent definiert und werden durchgängig konsistent verwendet. |
+| 2,0 | Ein zur Frage passender Ansatz wird korrekt dargestellt und erkennbar auf die Frage bezogen. Die tragenden Begriffe sind definiert und werden im Wesentlichen konsistent gebraucht. |
+| 2,3 | Theorie überwiegend referiert und nur lose auf die Frage bezogen: Es lässt sich nicht sagen, was sie für diese Frage erwarten lässt. Begriffe stellenweise unscharf oder schwankend. |
+| 3,0 | Theorieteil ohne erkennbare Funktion für die Frage, oder Theorie verkürzt bzw. verzerrt dargestellt. Zentrale Begriffe unzureichend definiert oder uneinheitlich verwendet; das belastet die Argumentation. |
+| 4,0 | Kaum theoretische Einbettung; Schlüsselbegriffe nicht definiert und in der Bedeutung wechselnd; es entstehen grundlegende Verständnisprobleme. |
+| 5,0 | Weder ein theoretischer Bezugsrahmen noch geklärte Begriffe; begrifflich diffus und über weite Strecken nicht nachvollziehbar. |
+
+</details>
+
+<details>
 <summary><b>Literatur und Forschungsstand</b></summary>
 
 <br>
@@ -96,24 +116,6 @@ Bewertet wird vor allem die Frage, die deine Arbeit **tatsächlich bearbeitet un
 | 3,0 | Dünne oder unsystematische Literaturbasis; überwiegend nicht-wissenschaftliche Quellen; Zitierweise uneinheitlich oder lückenhaft. |
 | 4,0 | Kaum wissenschaftliche Literatur; Quellen werden ohne Bezug zur Frage referiert. |
 | 5,0 | Kein wissenschaftlicher Umgang mit Quellen *(führt zum Nichtbestehen, siehe oben)*. |
-
-</details>
-
-<details>
-<summary><b>Begriffliche Klarheit und Konsistenz</b></summary>
-
-<br>
-
-| Note | Erwartung |
-|---|---|
-| 1,0 | Wie 1,3, zusätzlich: die Begriffswahl wird begründet und reflektiert (z. B. Abgrenzung zu konkurrierenden Definitionen). |
-| 1,3 | Wie 1,7, zusätzlich: Definitionen sind präzise, theoretisch verortet und tragen die Analyse. |
-| 1,7 | Wie 2,0, zusätzlich: zentrale Begriffe transparent definiert und durchgängig konsistent verwendet. |
-| 2,0 | Die tragenden Begriffe sind definiert und werden im Wesentlichen konsistent gebraucht. |
-| 2,3 | Begriffe überwiegend geklärt, aber stellenweise unscharf oder schwankend. |
-| 3,0 | Zentrale Begriffe sind unzureichend definiert oder werden uneinheitlich verwendet; das belastet die Argumentation. |
-| 4,0 | Schlüsselbegriffe nicht defininiert und in der Bedeutung wechselnd; es entstehen grundlegende Verständnisprobleme. |
-| 5,0 | Begrifflich diffus und über weite Strecken nicht nachvollziehbar. |
 
 </details>
 

@@ -27,4 +27,4 @@ Eine Lücke muss auch nicht immer bedeuten, etwas Neues zu bearbeiten. Interessa
 ---
 <!-- nav -->
 
-← [Thema und Forschungsfrage](02-forschungsfrage.md) · [Kapitelübersicht](README.md) · [Startseite](../README.md) · [Begriffe](04-begriffe.md) →
+← [Thema und Forschungsfrage](02-forschungsfrage.md) · [Kapitelübersicht](README.md) · [Startseite](../README.md) · [Theoretischer Rahmen und Begriffe](04-begriffe.md) →
