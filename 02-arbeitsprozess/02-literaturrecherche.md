@@ -73,6 +73,8 @@ Das Nutzen von Literaturverwaltungsprogrammen spart schon bei kurzen Hausarbeite
 
 Eine gute Faustregel: Wenn neue Suchen und das Schneeballsystem fast nur noch Texte liefern, die du schon kennst, hast du den Kern der Literatur. Danach suchst du nur noch gezielt, wenn beim Schreiben eine konkrete Frage auftaucht.
 
+Ein weiterer Indikator ist dein Zeitplan: Wenn du stark hinter deinem Zeitplan zurückhängst, obwohl du konstant an deiner Arbeit gesessen hast, ist es u.U. Zeit, dich zumindest vorerst dem Schreiben zu widmen.
+
 ---
 <!-- nav -->
 

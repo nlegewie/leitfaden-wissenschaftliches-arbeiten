@@ -1,6 +1,6 @@
 # Schreiben
 
-Schreiben und Überarbeiten sind zwei verschiedene Tätigkeiten. Wer beides gleichzeitig versucht — jeden Satz beim ersten Mal perfekt formulieren will —, kommt meist nicht über die erste Seite hinaus. Trenne deshalb die Phasen: erst Text erzeugen, dann [überarbeiten](05-ueberarbeiten.md).
+Schreiben und Überarbeiten sind zwei verschiedene Tätigkeiten. Wer beides gleichzeitig versucht und versucht, jeden Satz beim ersten Mal perfekt zu formulieren, kommt meist nicht über die erste Seite hinaus. Trenne deshalb die Phasen: erst Text erzeugen, dann [überarbeiten](05-ueberarbeiten.md).
 
 ## Fang nicht unbedingt vorne an
 
@@ -10,9 +10,11 @@ Du musst nicht mit der Einleitung beginnen, nur weil sie am Anfang steht. Schrei
 
 Halte zuerst in Stichpunkten fest, was ein Abschnitt sagen soll und in welcher Reihenfolge. Erst danach formulierst du aus. So trennst du die Frage, *was* du sagen willst, von der Frage, *wie* du es sagst. Eine solche Stichpunkt-Gliederung ist auch die beste Grundlage für ein Gespräch in der Sprechstunde.
 
+Ich persönlich packe meine Gliederung immer irgendwo anders hin als in das Dokument, in das ich den eigentlichen Text schreibe. Genauso kopiere ich manchmal altes Material für einen Textabschnitt in eine Zwischenablage-Dokument, um wieder eine freiere Seite für die Überarbeitung vor mir zu haben. Für mich fühlt sich das sonst einschränkend an. Probier's mal aus, vielleicht geht es dir ähnlich?
+
 ## Freewriting
 
-**Freewriting** (nach Peter Elbow) heißt: Du schreibst für eine feste Zeit — etwa 10 Minuten — ohne Unterbrechung, ohne zu korrigieren und ohne zurückzulesen. Wenn dir nichts einfällt, schreibst du genau das, bis wieder ein Gedanke kommt. Das Ergebnis ist kein Text für die Arbeit, sondern Rohmaterial. Freewriting hilft gegen Schreibblockaden und eignet sich gut, um herauszufinden, was du zu einer Frage eigentlich denkst.
+**Freewriting** (nach Peter Elbow) heißt: Du schreibst für eine feste Zeit (etwa 10 Minuten) ohne Unterbrechung, ohne zu korrigieren und ohne zurückzulesen. Wenn dir nichts einfällt, schreibst du genau das, bis wieder ein Gedanke kommt. Das Ergebnis ist kein Text für die Arbeit, sondern Rohmaterial. Freewriting hilft gegen Schreibblockaden und eignet sich gut, um herauszufinden, was du zu einer Frage eigentlich denkst.
 
 ## Der erste Entwurf darf schlecht sein
 
@@ -23,11 +25,18 @@ Vertrauen in Institutionen ist in Ostdeutschland niedriger [QUELLE, Zahlen?].
 Das liegt nicht nur an [Begriff fehlt — Transformationserfahrung?] …
 ```
 
-Die Schriftstellerin Anne Lamott hat dafür den Begriff **„Shitty First Draft"** geprägt: Jeder gute Text beginnt als schlechter erster Entwurf. Seine einzige Aufgabe ist, zu existieren. Alles andere lässt sich beim Überarbeiten nachbessern — aber nur, wenn du dafür [Zeit eingeplant](01-zeitplanung.md#das-projekt-planen) hast.
+Die Schriftstellerin Anne Lamott hat dafür den Begriff **„Shitty First Draft"** geprägt: Jeder gute Text beginnt als schlechter erster Entwurf. Seine einzige Aufgabe ist, zu existieren. Alles andere lässt sich beim Überarbeiten nachbessern. Das geht aber nur, wenn du dafür [Zeit eingeplant](01-zeitplanung.md#das-projekt-planen) hast.
 
 ## In festen Zeitfenstern schreiben
 
-Schreib regelmäßig, in deinen produktiven Zeiten, mit Pausen — siehe [Den Tag planen](01-zeitplanung.md#den-tag-planen).
+Schreib regelmäßig, in deinen produktiven Zeiten, mit Pausen. Mehr dazu unter [Den Tag planen](01-zeitplanung.md#den-tag-planen).
+
+
+## Wechsel das Medium
+
+Manchmal rennt man sich fest, wenn man die ganze Zeit am Computer sitzt und in ein Textverarbeitungsprogramm Satz um Satz einhackt. Nutze regelmäßig auch andere Medien, wie z.B. ein Blatt und eine Stift, um dort z.B. Gliederungen zu schreiben oder Mindmaps zu erstellen.
+
+Aus dem gleichen Grund kann es manchmal helfen, deinen Text auszudrucken und dort Kommentare reinzuschreiben, die dann am Computer wieder in dein Dokument einarbeitest.
 
 ---
 <!-- nav -->

@@ -39,6 +39,8 @@ Ob dir genau der gerade beschriebene Takt liegt, findest du am besten durch Ausp
 
 Das fängt im Kleinen an: Merke dir das Tastenkürzel für's Speichern von Änderungen (Strg + S auf Windows; command + S auf MacOS) und gewöhne dir an, es nach jedem geschriebenen Satz zu benutzen. So beugst du dem Verlust von langen Textpassagen vor, falls das Textverarbeitungsprogramm deines Vertrauens abstürzen sollte. (Bei Varianten, die über die Cloud laufen, passiert dieses Speichern meist automatisch.)
 
+Wenn du einen vollständigen Entwurf hast und mit der Textüberarbeitung beginnst, lohnt es sich, die Dateien zu versionieren. Das kannst du zum Beispiel machen, indem du jeden Tag eine neue Kopie der Datei anlegst und sie mit dem Datum am Ende benennst. Nutze dazu ein Format wie zum Beispiel "TITEL_Jahr-Monat-Tag". Dadurch werden die Dateien von oben nach unten in der korrekten zeitlichen Abfolge im Ordner angezeigt.
+
 Eine einfache Faustregel für größere Backups ist die **3-2-1-Regel**: drei Kopien, auf zwei verschiedenen Speichermedien, eine davon außer Haus. Praktisch heißt das zum Beispiel:
 
 - Arbeite in einem **synchronisierten Ordner** (z. B. der Cloud-Speicher deiner Hochschule), der auch frühere Versionen aufbewahrt.
@@ -46,7 +48,7 @@ Eine einfache Faustregel für größere Backups ist die **3-2-1-Regel**: drei Ko
 - Synchronisiere deine **Literaturdatenbank** (Zotero bietet das an).
 - Für **Forschungsdaten mit Personenbezug** gelten strengere Regeln — siehe [Datenschutz](../03-arbeitstypen/03-forschungsethik-und-datenschutz.md#daten-sicher-speichern).
 
-Wenn du einen vollständigen Entwurf hast und mit der Textüberarbeitung beginnst, lohnt es sich, die Dateien zu versionieren. Das kannst du zum Beispiel machen, indem du jeden Tag eine neue Kopie der Datei anlegst und sie mit dem Datum am Ende benennst. Nutze dazu ein Format wie zum Beispiel "TITEL_Jahr-Monat-Tag". Dadurch werden die Dateien von oben nach unten in der korrekten zeitlichen Abfolge im Ordner angezeigt.
+
 
 ---
 <!-- nav -->

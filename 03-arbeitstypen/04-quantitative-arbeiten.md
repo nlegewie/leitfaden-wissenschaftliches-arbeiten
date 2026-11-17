@@ -74,6 +74,39 @@ Für eine quantitative Arbeit musst du in aller Regel **keine eigenen Daten erhe
 - **Länderdaten erlauben Aussagen über Länder, nicht über Personen.** Wenn Länder mit höherem Durchschnittseinkommen mehr Vertrauen haben, heißt das nicht, dass reichere Menschen mehr vertrauen (ökologischer Fehlschluss).
 - **Zitiere Datensätze** wie Literatur, mit Version und DOI, falls vorhanden.
 
+## Signifikanztests mit einer Gelegenheitsstichprobe
+
+Wenn du doch eigene Daten erhebst, etwa mit einer Online-Umfrage im Freundeskreis, im eigenen Seminar oder über Social Media, hast du meist eine **Gelegenheitsstichprobe**. Auch damit kannst du t-Tests oder χ²-Tests rechnen. Du musst die Ergebnisse aber anders deuten als bei einer Zufallsstichprobe. (Zu Einwilligung und Datenschutz bei eigenen Erhebungen siehe [Forschungsethik und Datenschutz](03-forschungsethik-und-datenschutz.md).)
+
+> [!IMPORTANT]
+> Ein Signifikanztest beantwortet genau eine Frage: Könnte der gefundene Unterschied auch einfach durch Zufall entstanden sein, also durch die zufällige Auswahl der Befragten oder die zufällige Zuteilung zu Gruppen? Diese Frage ergibt nur Sinn, wenn es einen solchen Zufallsmechanismus tatsächlich gibt. Bei einer Gelegenheitsstichprobe gibt es ihn nicht. Der p-Wert erlaubt deshalb keinen direkten Schluss auf „die Studierenden in Deutschland“.
+
+**Worauf du achten solltest**
+
+- **Verzerrung verschwindet nicht durch mehr Fälle.** Wenn deine Stichprobe systematisch anders ist als die Grundgesamtheit, wird der Fehler mit größerem n nicht kleiner. Er wirkt dann nur genauer.
+- **Gruppenunterschiede können durch die Rekrutierung entstehen.** Ein Beispiel: Die Männer stammen vor allem aus einem Sportverein, die Frauen aus einer Psychologie-Vorlesung. Dann ist ein „Geschlechterunterschied“ vielleicht nur ein Unterschied zwischen diesen beiden Orten.
+- **Die Befragten sind oft nicht unabhängig.** Wer über Freunde von Freunden rekrutiert, erhält ähnliche Personen. Die Standardfehler fallen dann zu klein aus, und Ergebnisse wirken signifikanter, als sie sind.
+
+**Was du konkret tun solltest**
+
+- **Rekrutierung offenlegen.** Beschreibe genau, wie du die Teilnehmenden gewonnen hast. Formuliere deine Schlussfolgerungen entsprechend vorsichtig, z. B. „unter den befragten Studierenden …“.
+- **Stichprobe vergleichen.** Vergleiche Merkmale wie Geschlecht, Studienfach und Semester mit amtlichen Daten, etwa der Hochschulstatistik des Statistischen Bundesamts oder deiner Universität. Wo gibt es Abweichungen, und was bedeuten sie für deine Ergebnisse?
+- **Zuerst beschreiben, dann testen.** Berichte Mittelwerte, Prozentanteile und Effektstärken, etwa Cohens d oder Cramérs V. Diese Werte beschreiben deine Stichprobe, egal wie sie zustande kam. Ob sie auch über deine Stichprobe hinaus gelten, sagen sie allerdings nicht.
+- **Tests vorsichtig deuten.** Schreib nicht „signifikant, also gibt es den Unterschied in der Bevölkerung“. Schreib stattdessen etwa: „Wenn man annimmt, dass sich die Stichprobe in dieser Hinsicht wie eine Zufallsstichprobe verhält, ist der Unterschied größer als durch Zufall zu erwarten.“
+- **Nicht wahllos viele Tests rechnen.** Wer viele Vergleiche testet, findet allein durch Zufall einige „signifikante“ Ergebnisse: Bei 20 Tests auf dem 5-%-Niveau ist im Schnitt einer signifikant, auch wenn es nirgends einen echten Unterschied gibt. Lege vorher fest, welche Vergleiche dich interessieren, und berichte alle Tests, die du gerechnet hast.
+- **Die Studie als explorativ verstehen.** Deine Ergebnisse können Hypothesen erzeugen, aber nicht bestätigen. Das ist völlig legitim, solange du es klar so benennst.
+
+<details>
+<summary><b>Vertiefung:</b> Technisch sauber rechnen</summary>
+
+<br>
+
+- **t-Test:** Verwende standardmäßig den **Welch-Test**. Er setzt keine gleichen Varianzen in den Gruppen voraus. In R ist er bei `t.test()` bereits voreingestellt.
+- **χ²-Test:** Prüfe, ob die **erwarteten Zellhäufigkeiten** groß genug sind. Die übliche Faustregel: alle mindestens 5 (etwas großzügiger: höchstens 20 % der Zellen unter 5, keine unter 1). Bei kleinen Stichproben ist das oft nicht der Fall. In R zeigt `chisq.test(...)$expected` die erwarteten Häufigkeiten; R warnt außerdem mit „Chi-squared approximation may be incorrect“. Fasse dann inhaltlich sinnvolle Kategorien zusammen oder verwende den **exakten Test nach Fisher** (`fisher.test()`).
+- **Cramérs V** behandelt beide Variablen als nominal. Bei ordinalen Variablen beachte den Hinweis oben unter [Passt das Verfahren zu deinen Daten?](#passt-das-verfahren-zu-deinen-daten).
+
+</details>
+
 ---
 <!-- nav -->
 
