@@ -11,7 +11,7 @@ Deine Arbeit wird entlang von acht Dimensionen beurteilt:
 7. **Sprache / Schreibstil**
 8. **Formales**
 
-Diese Dimensionen sind **unterschiedlich gewichtet**: Forschungsfrage und Analyse zählen am stärksten, Formales am wenigsten (außer es wird nicht sauber zitiert).
+Diese Dimensionen sind **unterschiedlich gewichtet**: Die Analyse zählt am stärksten, danach Forschungsfrage und Literatur; Formales zählt am wenigsten (außer es wird nicht sauber zitiert).
 
 Der Maßstab ist so gedacht, dass eine **kompetente, die Erwartungen erfüllende Arbeit der Note 2,0 entspricht**. Von dort aus geht es nach oben, wenn du die Erwartungen übertriffst, und nach unten, wenn du hinter ihnen zurückbleibst. Eine Arbeit, die die Erwartungen in diesem Leitfaden sauber erfüllt, ist also bereits eine gute Arbeit.
 
@@ -22,7 +22,7 @@ Ich sehe bei empirischen Arbeiten einen großen Mehrwert für den Lernprozess. I
 > [!CAUTION]
 > Drei Schwächen wiegen besonders schwer und **begrenzen die erreichbare Note** unabhängig von den Stärken der Arbeit:
 >
-> - **keine erkennbare oder nicht beantwortbare Forschungsfrage**
+> - **keine erkennbare oder nicht beantwortbare Forschungsfrage** — gemeint ist: Auch aus der Arbeit als Ganzer lässt sich keine Frage erkennen, die sie verfolgt und beantwortet
 > - **zentrale Behauptungen, die nicht durch Daten oder Quellen gestützt sind**
 > - **eine sehr unübersichtliche Struktur**, in der kein Argumentationsgang erkennbar ist
 >
@@ -48,14 +48,16 @@ So sind die Tabellen zu lesen:
 
 <br>
 
+Bewertet wird vor allem die Frage, die deine Arbeit **tatsächlich bearbeitet und beantwortet** — nicht nur ihr Wortlaut in der Einleitung. Eine unglücklich formulierte Frage, oder eine, die von dem abweicht, was du am Ende wirklich untersuchst, kostet in dieser Dimension höchstens eine Stufe. Eine sorgfältige Formulierung lohnt sich trotzdem: Sie zwingt dich früh zur Präzision und hält die Arbeit auf Kurs.
+
 | Note | Erwartung |
 |---|---|
 | 1,0 | Wie 1,3, zusätzlich: originell und nicht-trivial; addressiert eine Forschungslücke und eröffnet einen Erkenntnisgewinn über das Naheliegende hinaus. |
-| 1,3 | Wie 1,7, zusätzlich: präzise zugeschnitten und erkennbar ergebnisoffen (ein unerwartetes Ergebnis ist möglich); trägt die gesamte Arbeit. |
-| 1,7 | Wie 2,0, zusätzlich: klar als Frage formuliert, eng gefasst, durchgängig leitend; der Zuschnitt ist überzeugend begründet. |
+| 1,3 | Wie 1,7, zusätzlich: präzise zugeschnitten und in der Sache ergebnisoffen (die Arbeit hätte zu einem anderen Ergebnis kommen können); trägt die gesamte Arbeit. |
+| 1,7 | Wie 2,0, zusätzlich: eng gefasst und durchgängig leitend; der Zuschnitt ist überzeugend begründet. |
 | 2,0 | Erkennbare, beantwortbare Frage, die zum Umfang passt und die Arbeit grundsätzlich strukturiert. |
-| 2,3 | Frage vorhanden, aber etwas zu breit oder unscharf; der Bezug zur Arbeit ist stellenweise lose. |
-| 3,0 | Frage nur implizit, sehr breit oder ergebnisvorwegnehmend; leitet die Arbeit kaum. |
+| 2,3 | Etwas zu breit oder unscharf; einzelne Teile der Arbeit hängen nur lose an der Frage. |
+| 3,0 | Frage nur mit Mühe erkennbar, sehr breit oder in der Sache ergebnisvorwegnehmend (die Arbeit sammelt nur Belege für eine feststehende These); leitet die Arbeit kaum. |
 | 4,0 | Eine Fragestellung ist allenfalls zu erahnen; die Arbeit beschreibt ein Thema, ohne eine Frage zu verfolgen. |
 | 5,0 | Keine erkennbare oder keine beantwortbare Fragestellung *(begrenzt die Gesamtnote, siehe oben)*. |
 
