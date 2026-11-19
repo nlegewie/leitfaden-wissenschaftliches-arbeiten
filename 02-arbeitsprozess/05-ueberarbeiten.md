@@ -1,28 +1,28 @@
 # Überarbeiten
 
-Überarbeiten ist kein Korrekturlesen. Es heißt: den Text daraufhin prüfen, ob er das Argument trägt — und ihn umbauen, wo nicht. Plane dafür einen eigenen Arbeitsschritt mit eigener Frist ein (siehe [Zeitplanung](01-zeitplanung.md#das-projekt-planen)).
+Überarbeiten ist kein Korrekturlesen. Es heißt: den Text daraufhin prüfen, ob er das Argument trägt und ihn umbauen, wo nicht. Plane dafür einen eigenen Arbeitsschritt mit eigener Frist ein, und gib dir für diesen Arbeitsschritt genug Zeit (siehe [Zeitplanung](01-zeitplanung.md#das-projekt-planen)).
 
 ## Erst das Große, dann das Kleine
 
 Überarbeite in dieser Reihenfolge:
 
-1. **Argument und Aufbau** — Beantwortet die Arbeit ihre Frage? Trägt die Gliederung? Stehen die Absätze in der richtigen Reihenfolge?
-2. **Absätze** — Hat jeder Absatz einen Hauptgedanken? Sind die Übergänge nachvollziehbar?
-3. **Sätze und Wörter** — Klarheit, Länge, Fachbegriffe, Verben, die zur Evidenz passen.
-4. **Formales** — Rechtschreibung, Zitation, Verweise, Formatierung.
+1. **Argument und Struktur**: Beantwortet die Arbeit ihre Frage? Funktioniert die Gliederung? Stehen die Absätze in der richtigen Reihenfolge?
+2. **Absätze**: Hat jeder Absatz einen Hauptgedanken? Sind die Übergänge nachvollziehbar?
+3. **Sätze und Wörter**: Klarheit, Länge, Fachbegriffe, Verben, die zur Evidenz passen.
+4. **Formales**: Rechtschreibung, Zitation, Verweise, Formatierung.
 
-Die Reihenfolge ist wichtig: Wer zuerst Sätze poliert, poliert oft Absätze, die beim inhaltlichen Überarbeiten ohnehin wegfallen.
+Die Reihenfolge ist wichtig: Man kann teilweise viel Zeit in das Überarbeiten bestimmter Sätze oder Absätze stecken, die am Ende dann eh stark umgeschrieben oder sogar ganz gelöscht werden müssen.
 
 ## Den Text liegen lassen
 
-Leg einen fertigen Entwurf für **ein paar Tage** weg, bevor du ihn überarbeitest. Mit Abstand siehst du Lücken, Sprünge und unklare Formulierungen, die dir direkt nach dem Schreiben nicht auffallen — weil du beim Lesen noch im Kopf ergänzt, was eigentlich auf dem Papier stehen müsste.
+Leg einen fertigen Entwurf für **ein paar Tage** weg, bevor du ihn überarbeitest. Mit Abstand siehst du Lücken, Sprünge und unklare Formulierungen, die dir direkt nach dem Schreiben nicht auffallen. Wenn du tief im Schreiben steckst, ergänzt du beim Lesen noch im Kopf, was eigentlich auf dem Papier stehen müsste.
 
 ## Reverse Outline: der Ein-Satz-Test
 
-Beim Lesen sollte man das Gefühl haben, dass jeder Absatz der **logisch nächste Gedanke** nach dem vorigen ist. Ob das gelingt, lässt sich mit einer einfachen Übung prüfen, die in der Schreibdidaktik **Reverse Outline** heißt — eine Gliederung, die du nachträglich aus dem fertigen Text gewinnst:
+Beim Lesen sollte man das Gefühl haben, dass jeder Absatz der **logisch nächste Gedanke** nach dem vorigen ist. Ob das gelingt, lässt sich mit einer einfachen Übung prüfen, die in der Schreibdidaktik **Reverse Outline** heißt, d.h. eine Gliederung, die du nachträglich aus dem fertigen Text gewinnst:
 
 > [!TIP]
-> Schreibe neben jeden Absatz deines Entwurfs **einen Satz**, der seinen Inhalt zusammenfasst. Lies diese Sätze dann nacheinander — am besten laut. Sie sollten zusammen einen verständlichen kurzen Text ergeben, der den Inhalt deiner Arbeit gut wiedergibt.
+> Schreibe neben jeden Absatz deines Entwurfs **einen Satz**, der seinen Inhalt zusammenfasst. Lies diese Sätze dann nacheinander, am besten laut. Sie sollten zusammen einen verständlichen kurzen Text ergeben, der den Inhalt deiner Arbeit gut wiedergibt.
 >
 > Was dabei auffällt, zeigt dir, was zu tun ist:
 >
@@ -33,11 +33,11 @@ Beim Lesen sollte man das Gefühl haben, dass jeder Absatz der **logisch nächst
 
 ## Mit einem Vorbild vergleichen
 
-Nimm einen guten Fachartikel aus deinem Themenfeld und vergleiche, wie er einen bestimmten Abschnitt baut — die Einleitung, den Methodenteil, die Diskussion. Das funktioniert am besten, wenn dein eigener Entwurf schon steht. Ein Beispiel steht unter [Die Einleitung in drei Zügen](../01-anforderungen/06-aufbau-und-argumentation.md#die-einleitung-in-drei-zügen).
+Nimm einen guten Fachartikel aus deinem Themenfeld und vergleiche, wie er einen bestimmten Abschnitt baut (die Einleitung, den Methodenteil, die Diskussion). Das funktioniert am besten, wenn dein eigener Entwurf schon steht. Ein Beispiel steht unter [Die Einleitung in drei Zügen](../01-anforderungen/06-aufbau-und-argumentation.md#die-einleitung-in-drei-zügen).
 
 ## Andere lesen lassen
 
-Kommiliton:innen, Freund:innen, Familie: Wer deine Arbeit nicht kennt, merkt am schnellsten, wo ein Gedankengang nicht nachvollziehbar ist. Plane dafür **genug Zeit** ein — für die Lesenden (niemand liest 30 Seiten über Nacht) und für dich, um die Rückmeldungen einzuarbeiten.
+Kommiliton:innen, Freund:innen, Familie: Wer deine Arbeit nicht kennt, merkt am schnellsten, wo ein Gedankengang nicht nachvollziehbar ist. Plane dafür **genug Zeit** ein. Für die Lesenden (niemand liest 30 Seiten über Nacht) und für dich, um die Rückmeldungen einzuarbeiten.
 
 Hilfreich ist, wenn du sagst, worauf die Lesenden achten sollen, z. B.:
 

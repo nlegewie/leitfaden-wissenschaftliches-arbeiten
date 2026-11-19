@@ -1,6 +1,6 @@
 # 3 Arbeitstypen
 
-Was eine gute Analyse ausmacht, hängt vom Typ deiner Arbeit ab. Bevor du anfängst, solltest du wissen, welche Art von Arbeit du schreibst — und das in der Arbeit auch ausweisen (siehe [Anspruch und Vorgehen](../01-anforderungen/05-analyse-und-evidenz.md#anspruch-und-vorgehen-müssen-zusammenpassen)).
+Was eine gute Analyse ausmacht, hängt vom Typ deiner Arbeit ab. Bevor du anfängst, solltest du wissen, welche Art von Arbeit du schreibst und das in der Arbeit auch ausweisen (siehe [Anspruch und Vorgehen](../01-anforderungen/05-analyse-und-evidenz.md#anspruch-und-vorgehen-müssen-zusammenpassen)).
 
 | | Seite | Worum es geht |
 |---|---|---|

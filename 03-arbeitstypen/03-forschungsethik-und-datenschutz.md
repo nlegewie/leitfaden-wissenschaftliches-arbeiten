@@ -17,9 +17,13 @@ Wer an deiner Forschung teilnimmt, muss vorher wissen, worauf er oder sie sich e
 
 Hol die Einwilligung **schriftlich** ein (oder dokumentiere eine mündliche Einwilligung zu Beginn der Aufnahme). Die **Tonaufnahme** braucht eine ausdrückliche Zustimmung. Bei Minderjährigen ist zusätzlich die Zustimmung der Erziehungsberechtigten nötig.
 
+Verspreche in Datenschutzvereinbarungen für qualitative Studien im Normalfall nicht, dass du Daten anonymisieren wirst (siehe unten). Das ist meistens kaum möglich und sehr schwer zu gewährleisten. Sichere stattdessen Pseudonomisierung zu.
+
+Die Uni Münster bietet einen Vordruck für die Datenschutzvereinbarung für qualitative Forschungsvorhaben, die du [hier](LINK) findest.
+
 ## Nur so viel erheben wie nötig
 
-Erhebe nur die Daten, die du für deine Frage tatsächlich brauchst (**Datensparsamkeit**). Besonders vorsichtig musst du mit **besonders schützenswerten Daten** sein. Dazu zählen nach der DSGVO unter anderem Angaben zu **politischen Meinungen**, religiösen oder weltanschaulichen Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit, sexueller Orientierung und ethnischer Herkunft. In der politischen Soziologie berührst du diese Kategorien schnell — dann muss die Einwilligung sich ausdrücklich auch darauf beziehen.
+Erhebe nur die Daten, die du für deine Frage tatsächlich brauchst (**Datensparsamkeit**). Besonders vorsichtig musst du mit **besonders schützenswerten Daten** sein. Dazu zählen nach der DSGVO unter anderem Angaben zu **politischen Meinungen**, religiösen oder weltanschaulichen Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit, sexueller Orientierung und ethnischer Herkunft. In der Soziologie berührst du diese Kategorien schnell, und dann muss die Einwilligung sich ausdrücklich auch darauf beziehen.
 
 ## Anonymisieren und Pseudonymisieren
 
@@ -28,18 +32,19 @@ Erhebe nur die Daten, die du für deine Frage tatsächlich brauchst (**Datenspar
 
 Achte auf **indirekte Identifikatoren**: Arbeitgeber, Wohnort, Funktionen, ungewöhnliche Lebensereignisse. Die Kombination „Bürgermeisterin einer Gemeinde in Nordhessen, früher Pflegekraft" kann eine Person eindeutig machen, auch ohne Namen. Verändere oder vergröbere solche Angaben in Transkripten und Zitaten, wo es die Analyse nicht beeinträchtigt.
 
+
 ## Daten sicher speichern
 
-- Speichere Aufnahmen und Transkripte auf **verschlüsselten Geräten** oder in dem von deiner Hochschule bereitgestellten Speicher — nicht auf unverschlüsselten USB-Sticks oder in privaten Cloud-Diensten.
+- Speichere Aufnahmen und Transkripte auf **verschlüsselten Geräten** oder in dem von deiner Hochschule bereitgestellten Speicher. Vermeide unverschlüsselte USB-Sticks oder private Cloud-Dienste. Das gilt auch für automatische Backups deines Rechners!
 - Lösche **Aufnahmen**, sobald sie nicht mehr gebraucht werden, und halte dich an das, was du in der Einwilligung zugesagt hast.
-- Gib Rohdaten nicht weiter. In den Anhang deiner Arbeit gehören **pseudonymisierte** Auszüge, nicht die Aufnahmen und nicht die unterschriebenen Einwilligungen mit Namen.
+- Gib Rohdaten nicht weiter. In den Anhang deiner Arbeit gehören **pseudonymisierte** Auszüge oder Transkripte, nicht die Aufnahmen und nicht die unterschriebenen Einwilligungen mit Namen.
 
 ## KI-Werkzeuge und Forschungsdaten
 
 > [!WARNING]
-> **Lade keine Interviewaufnahmen, Transkripte oder andere personenbezogene Forschungsdaten in externe KI-Dienste hoch** — weder zum Transkribieren noch zum Kodieren oder Zusammenfassen. Damit gibst du personenbezogene Daten an Dritte weiter, wozu deine Befragten nicht eingewilligt haben, und du hast keine Kontrolle darüber, was mit ihnen geschieht.
+> **Lade keine Interviewaufnahmen, Transkripte oder andere personenbezogene Forschungsdaten in externe KI-Dienste hoch**, weder zum Transkribieren noch zum Kodieren oder Zusammenfassen. Damit gibst du personenbezogene Daten an Dritte weiter, und du hast keine Kontrolle darüber, was mit ihnen geschieht.
 
-Wenn du automatische Transkription nutzen willst, frag nach, ob deine Hochschule ein datenschutzkonformes Werkzeug anbietet, oder nutze eine Software, die **lokal auf deinem Rechner** läuft.
+Wenn du automatische Transkription nutzen willst, frag nach, ob deine Hochschule ein datenschutzkonformes Werkzeug anbietet, oder nutze eine Software, die ** ausschließlich lokal auf deinem Rechner** läuft.
 
 ## Daten aus dem Internet
 
@@ -47,7 +52,7 @@ Wenn du automatische Transkription nutzen willst, frag nach, ob deine Hochschule
 
 ## Weiterlesen
 
-Der **Ethik-Kodex** der Deutschen Gesellschaft für Soziologie (DGS) und des Berufsverbands Deutscher Soziologinnen und Soziologen (BDS) beschreibt die Grundsätze, an denen sich soziologische Forschung in Deutschland orientiert. Du findest ihn auf der Website der DGS.
+Der **Ethik-Kodex** der Deutschen Gesellschaft für Soziologie (DGS) und des Berufsverbands Deutscher Soziologinnen und Soziologen (BDS) beschreibt die Grundsätze, an denen sich soziologische Forschung in Deutschland orientiert. Du findest ihn auf der Website der DGS. Es gibt zudem eine ganze Reihe Publikation zu Themen der Forschungsethik, von denen du einige unter [Weiterführende Literatur](04-weiterfuehrende-literatur.md) und [Bücher zur Vertiefung](05-buecher-zur-vertiefung.md) findest.
 
 ---
 <!-- nav -->

@@ -35,7 +35,7 @@ Reflektiere bei statistischen Befunden nicht nur Richtung und Signifikanz, sonde
 
 ## Datenquellen
 
-Für eine quantitative Arbeit musst du in aller Regel **keine eigenen Daten erheben**. Es gibt eine riesige Zahl hochwertiger, frei oder nach Registrierung zugänglicher Datensätze — für fast jede sozialwissenschaftliche Frage ist irgendwo schon etwas erhoben worden. Eine kleine Auswahl:
+Für eine quantitative Arbeit musst du in aller Regel **keine eigenen Daten erheben**. Es gibt eine riesige Zahl hochwertiger, frei oder nach Registrierung zugänglicher Datensätze. Für fast jede sozialwissenschaftliche Frage ist irgendwo schon etwas erhoben worden. Eine kleine Auswahl:
 
 **Bevölkerungsumfragen**
 
@@ -64,11 +64,12 @@ Für eine quantitative Arbeit musst du in aller Regel **keine eigenen Daten erhe
 - **[GESIS Search](https://search.gesis.org)** und das GESIS-Datenarchiv — die zentrale Anlaufstelle für sozialwissenschaftliche Daten in Deutschland.
 - **[Google Dataset Search](https://datasetsearch.research.google.com)** und **[re3data](https://www.re3data.org)** (Verzeichnis von Datenrepositorien).
 - Internationale Archive wie **ICPSR** oder **Harvard Dataverse**.
+- Für ausgefallenere Datensätze kannst du mal bei [Data is Plural](data-is-plural.com) vorbeischauen.
 - **Replikationsdaten**: Viele Fachartikel veröffentlichen ihre Daten. Wenn du einen Artikel liest, der mit passenden Daten arbeitet, schau nach, ob sie zugänglich sind.
 
 **Worauf du achten solltest**
 
-- **Zugang braucht Zeit.** Für manche Datensätze (z. B. das SOEP) musst du einen Nutzungsvertrag abschließen; das kann Wochen dauern. Kläre den Zugang deshalb früh — spätestens beim Exposé bzw. in der Planungsphase.
+- **Zugang braucht manchmal Zeit.** Für manche Datensätze (z. B. das SOEP) musst du einen Nutzungsvertrag abschließen; das kann Wochen dauern. Kläre den Zugang deshalb früh — spätestens beim Exposé bzw. in der Planungsphase.
 - **Lies die Dokumentation.** Fragebogen und Codebook sagen dir, wie eine Variable genau erhoben wurde, welche Werte fehlende Angaben bedeuten und ob du **Gewichte** verwenden musst.
 - **Prüfe aufbereitete Daten an der Quelle.** Our World in Data und ähnliche Angebote fassen Daten aus vielen Quellen zusammen. Nenne in deiner Arbeit die ursprüngliche Quelle und prüfe, wie die Werte zustande kommen.
 - **Länderdaten erlauben Aussagen über Länder, nicht über Personen.** Wenn Länder mit höherem Durchschnittseinkommen mehr Vertrauen haben, heißt das nicht, dass reichere Menschen mehr vertrauen (ökologischer Fehlschluss).
@@ -76,7 +77,7 @@ Für eine quantitative Arbeit musst du in aller Regel **keine eigenen Daten erhe
 
 ## Signifikanztests mit einer Gelegenheitsstichprobe
 
-Wenn du doch eigene Daten erhebst, etwa mit einer Online-Umfrage im Freundeskreis, im eigenen Seminar oder über Social Media, hast du meist eine **Gelegenheitsstichprobe**. Auch damit kannst du t-Tests oder χ²-Tests rechnen. Du musst die Ergebnisse aber anders deuten als bei einer Zufallsstichprobe. (Zu Einwilligung und Datenschutz bei eigenen Erhebungen siehe [Forschungsethik und Datenschutz](03-forschungsethik-und-datenschutz.md).)
+Wenn du doch eigene Daten erhebst, etwa mit einer Online-Umfrage im erweiterten Freundeskreis, über Email-Verteiler oder über Social Media, hast du meist eine **Gelegenheitsstichprobe**. Auch damit kannst du t-Tests oder χ²-Tests rechnen. Du musst die Ergebnisse aber anders deuten als bei einer Zufallsstichprobe. (Zu Einwilligung und Datenschutz bei eigenen Erhebungen siehe [Forschungsethik und Datenschutz](03-forschungsethik-und-datenschutz.md).)
 
 > [!IMPORTANT]
 > Ein Signifikanztest beantwortet genau eine Frage: Könnte der gefundene Unterschied auch einfach durch Zufall entstanden sein, also durch die zufällige Auswahl der Befragten oder die zufällige Zuteilung zu Gruppen? Diese Frage ergibt nur Sinn, wenn es einen solchen Zufallsmechanismus tatsächlich gibt. Bei einer Gelegenheitsstichprobe gibt es ihn nicht. Der p-Wert erlaubt deshalb keinen direkten Schluss auf „die Studierenden in Deutschland“.
